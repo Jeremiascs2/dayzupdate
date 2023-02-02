@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
     <update>
-		<version>1.3</version>
+		<version>1.4</version>
         <file>UPDATE.zip</file>
-		<html>https://0800f580-0015-4e59-a575-5161008b973e.usrfiles.com/archives/0800f5_1ab386a7592b4aa38cc89add99b9a882.zip</html>
+		<html>https://0800f580-0015-4e59-a575-5161008b973e.usrfiles.com/archives/0800f5_71a60feb505045aba1991d4b431f2a2a.zip</html>
         <command>false</command>
         <execute>false</execute>
     </update>
