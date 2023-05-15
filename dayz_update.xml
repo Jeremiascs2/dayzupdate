@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
     <update>
-        <version>1.1</version>
+		<version>1.7</version>
         <file>UPDATE.zip</file>
-        <html>https://www.dayzapocalypse.com/ATT-1.1.zip</html>
-        <command>false</command>
-        <execute>false</execute>
-    </update>
-    
-    <update>
-        <version>1.7</version>
-        <file>UPDATE.zip</file>
-        <html>https://0800f580-0015-4e59-a575-5161008b973e.usrfiles.com/archives/0800f5_eff4a19b50084a5fa0dc0b8520e78a80.zip</html>
+		<html>https://www.dayzapocalypse.com/ATT-1.1.zip</html>
         <command>false</command>
         <execute>false</execute>
     </update>
