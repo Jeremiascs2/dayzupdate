@@ -7,6 +7,9 @@
         <command>false</command>
         <execute>false</execute>
     </update>
+</root>
+
+<root>
     <update>
 		<version>1.7</version>
         <file>UPDATE.zip</file>
